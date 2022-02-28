@@ -6,9 +6,9 @@ import cookielib
 
 GHT = '''
 '''
-print "Gunakan Dengan Bijak"
+print "\033[1;33mGunakan Dengan Bijak"
 print "CTRL+C Untuk Keluar"
-print "Thanks To Moreno77"
+print "FireMe"
 
 
 email = str(raw_input("[*]=> Masukan ID Korban : "))
